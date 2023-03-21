@@ -1,0 +1,8 @@
+Comandos do github (nessa ordem)
+git init.
+git add .
+git commit -m "mensagem"
+git branch -M main (trocar a branch)
+git remote add origin https://github.com/FerreiraDev22/exemplo.git
+git push -u origin main
+publicado no github
