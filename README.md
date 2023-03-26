@@ -1,4 +1,4 @@
-<h1>Comandos do github (nessa ordem)</h1>
+<h1>Comandos do git para criar um commit no github (nessa ordem):</h1>
 git init.
 <br>
 git add .
