@@ -14,13 +14,13 @@ git push -u origin main
 <br>
 publicado no github
 <br>
-OBS: para ajudar os mais novos
-<br>
 
 <h1>Para atualizar os commits:</h1>
 <br>
-git add .
+git add  .
 <br>
 git commit -m "mensagem"
 <br>
 git push -u origin main
+<br>
+OBS: Para ajudar os mais novos
